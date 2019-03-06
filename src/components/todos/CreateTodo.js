@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 class CreateTodo extends Component {
-       constructor() {
+  constructor() {
   super();
   this.state = {
     text: '',
