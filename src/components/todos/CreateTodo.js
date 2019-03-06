@@ -28,4 +28,4 @@ render(){
   );
 }
 
-export default CreateTodo;
+export default CreateTodo
